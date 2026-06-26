@@ -6,10 +6,20 @@ A simple console-based Quiz Game made in c++.
 - Menu using function
 - 3 multiple-choice questions
 - Score calculation
--Final result display
+- Final result display
 
 ## Language
--C++
+
+- C++
+
+## Concepts Used
+
+- Functions
+- Conditional Statements
+- Loops
+- Variables
+- User Input/Output
 
 ##  Author
+
 Disha Sharma
